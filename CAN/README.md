@@ -28,6 +28,7 @@ A full-integration CCNA lab simulating a real-world enterprise campus network fo
 | 9 | CDP & LLDP | Neighbor discovery, disabling on access ports (security) |
 | 10 | NTP | Server as Reference clock, all devices synchronized with authentication enabled|
 | 11 | SYSLOG | Centralized logging to Server, ease of troubleshooting |
+| 12 | SECURITY | Console and VTY local login (username: ademola, password: ccna) |
 ---
 
 ## 🌐 IP Addressing Summary
